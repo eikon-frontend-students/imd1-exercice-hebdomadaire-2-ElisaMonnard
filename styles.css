@@ -1,0 +1,22 @@
+main {
+  max-width: 700px;
+  max-height: 600px;
+  background-color: rgb(210, 241, 106);
+  border-bottom-right-radius: 180px;
+  padding: 25px;
+}
+
+img {
+  max-width: 700px;
+  max-height: 600px;
+  border-bottom-right-radius: 180px;
+}
+
+h1 {
+  color: rgb(41, 42, 15);
+  margin-top: 0px;
+  margin-left: 10px;
+  font-size: 55px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
